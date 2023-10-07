@@ -28,11 +28,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+![web102_p3](https://github.com/1angad/web102_p3/assets/96559688/460e3537-6256-4cbb-aa8d-32ae50579587)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... ScreenToGIF
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
